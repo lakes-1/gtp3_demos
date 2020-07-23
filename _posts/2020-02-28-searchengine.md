@@ -2,7 +2,7 @@
 layout: post
 title: A GPT3 powered Search Engine
 tags: [test]
-twi: <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/9ismj62w6l">pic.twitter.com/9ismj62w6l</a></p> Paras Chopra (@paraschopra) <a href="https://twitter.com/paraschopra/status/1284801028676653060?ref_src=twsrc%5Etfw">July 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+twi: https://twitter.com/paraschopra/status/1284801028676653060
 ---
 fzoeji
 ofze
