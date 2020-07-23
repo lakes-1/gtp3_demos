@@ -39,7 +39,6 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
   github: daattali
   twitter: daattali
   rss: false
@@ -77,7 +76,7 @@ share-links-active:
 link-tags: true
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 300
+excerpt_length: 10
 
 # --- Colours / background image --- #
 
