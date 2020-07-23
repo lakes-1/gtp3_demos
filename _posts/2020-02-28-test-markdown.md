@@ -8,11 +8,9 @@ tags: [test]
 comments: true
 ---
 
-<div class='jekyll-twitter-plugin' align="center">
-    {% twitter https://twitter.com/anaik96 maxwidth=500 limit=5 %}
-</div>
-fze
-{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
+https://twitter.com/anaik96/status/1279080639736602625
+
+
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
